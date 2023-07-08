@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>RPS_res/pap.png</file>
+        <file>RPS_res/r.png</file>
+        <file>RPS_res/sc.png</file>
+    </qresource>
+</RCC>
